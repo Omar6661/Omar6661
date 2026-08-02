@@ -1,23 +1,63 @@
-# 💫 About Me:
-💻 Leidenschaftlicher Anwendungsentwickler auf der Suche nach neuen Herausforderungen<br>🧠 Stärken: Problemlösen, Positives Denken, Zeiteinteilung, Kreativität, Zusammenarbeit<br>🌐 Kenntnisse in: HTML, CSS, JavaScript, React.js, Bootstrap, Next.js<br>⚙️ Backend-Erfahrung: Node.js, Express<br>🗄️ Datenbanken: MongoDB, PostgreSQL<br>🔧 Versionierung: Git, GitHub<br>📜 Zertifiziert in Microsoft Azure Fundamentals<br>💼 Praktische Erfahrung als Full Stack und Webentwickler
+<p align="center">
+  <img src="assets/profile-hero.svg" alt="Omar Bakkali — CTO, full-stack engineer and digital systems builder based in Tangier, Morocco." width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/omarbakkali-tech/">LinkedIn</a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omarbakkali-dev) 
+## 01 / CURRENT MISSION
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Omar6661&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Omar6661&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar6661&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Omar Bakkali works where engineering, operations and business execution meet. As CTO at Top Gun Cargo, he builds digital systems that make logistics work easier to understand, operate and improve—from customer-facing platforms and internal operational systems to publishing and intelligence tools. His work combines full-stack engineering, workflow automation and technical delivery, with an emphasis on turning fragmented processes into useful, maintainable infrastructure.
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="assets/section-divider.svg" alt="Technical divider." width="100%" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Omar6661&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 02 / SELECTED SYSTEMS
 
----
-[![](https://visitcount.itsvg.in/api?id=Omar6661&icon=2&color=0)](https://visitcount.itsvg.in)
+<table>
+  <tr>
+    <td width="28%" valign="top"><img src="assets/tgc-platform-card.svg" alt="Top Gun Cargo Digital Platform project card." width="100%" /></td><td valign="top"><strong>Top Gun Cargo Digital Platform</strong><br/><br/>A customer-facing and operational logistics platform covering service discovery, account access, quotation flows and digital logistics capabilities.<br/><br/><sub>PLATFORM ARCHITECTURE · FRONTEND ENGINEERING · CUSTOMER WORKFLOWS · LOGISTICS TECHNOLOGY</sub></td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><img src="assets/tgc-signal-card.svg" alt="TGC Signal project card." width="100%" /></td><td valign="top"><strong>TGC Signal</strong><br/><br/>A logistics intelligence and publishing platform built with Astro, React, TypeScript and Sanity, with search, editorial content and operational calculators.<br/><br/><sub>ASTRO · REACT · TYPESCRIPT · SANITY · SEARCH · OPERATIONAL TOOLS</sub></td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><img src="assets/automation-card.svg" alt="Operations Automation project card." width="100%" /></td><td valign="top"><strong>Operations Automation</strong><br/><br/>Controlled automation systems built to reduce repetitive operational work, improve process visibility and support reliable execution.<br/><br/><sub>WORKFLOW DESIGN · SYSTEM INTEGRATION · AUTOMATION · OPERATIONAL CONTROLS</sub></td>
+  </tr>
+</table>
 
+## 03 / ENGINEERING CAPABILITIES
+
+<table>
+  <tr><td width="50%" valign="top"><strong>Product &amp; Platform Engineering</strong><br/>Design and build usable systems around real operational requirements.</td><td width="50%" valign="top"><strong>Frontend Systems</strong><br/>Develop responsive interfaces, structured component systems and customer-facing workflows.</td></tr>
+  <tr><td valign="top"><strong>Backend &amp; Integration</strong><br/>Connect applications, services, data and operational processes through maintainable interfaces.</td><td valign="top"><strong>Workflow Automation</strong><br/>Automate repetitive work while preserving visibility, validation and human control.</td></tr>
+  <tr><td valign="top"><strong>Technical Leadership</strong><br/>Translate business requirements into clear technical priorities and executable delivery plans.</td><td></td></tr>
+</table>
+
+## 04 / TECHNOLOGY SYSTEM
+
+<img src="assets/tech-system.svg" alt="Technology system: core JavaScript, TypeScript, HTML and CSS; frontend React, Next.js, Astro, Tailwind CSS and Bootstrap; backend Node.js and Express.js; data MongoDB and MySQL; platform Git, GitHub, AWS, Azure and Firebase." width="100%" />
+
+## 05 / ENGINEERING SIGNALS
+
+<p>
+  <img src="github-metrics/metrics.svg" alt="Generated GitHub metrics overview for Omar Bakkali." width="49%" />
+  <img src="github-metrics/languages.svg" alt="Generated most-used programming languages graphic for Omar Bakkali." width="49%" />
+</p>
+
+Metrics are refreshed weekly. If the generated files are temporarily unavailable, GitHub’s native profile activity remains the source of record.
+
+## 06 / WORKING PRINCIPLES
+
+<table>
+  <tr><td><strong>01</strong></td><td>Build around real operational constraints.</td></tr>
+  <tr><td><strong>02</strong></td><td>Prefer clear systems over impressive complexity.</td></tr>
+  <tr><td><strong>03</strong></td><td>Automate repeatable work without hiding critical decisions.</td></tr>
+  <tr><td><strong>04</strong></td><td>Treat design, engineering and operations as one delivery system.</td></tr>
+</table>
+
+<img src="assets/contact-banner.svg" alt="Build something operationally useful — open to selected technical partnerships, platform builds and execution-focused collaborations." width="100%" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omarbakkali-tech/">LinkedIn</a>
+</p>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Omar Bakkali profile hero</title><desc id="desc">A dark technical profile header for Omar Bakkali.</desc>
+  <rect width="1200" height="500" fill="#080B10"/><rect x="24" y="24" width="1152" height="452" rx="4" fill="#10151D" stroke="#26303D"/>
+  <g stroke="#26303D" stroke-width="1" opacity=".75"><path d="M64 100H1136M64 180H1136M64 260H1136M64 340H1136M64 420H1136"/><path d="M160 48V452M360 48V452M560 48V452M760 48V452M960 48V452"/></g>
+  <path d="M690 335C780 240 830 348 900 214S1040 275 1136 108" fill="none" stroke="#35C7BD" stroke-width="2" opacity=".7"/><g fill="#E63946"><circle cx="690" cy="335" r="5"/><circle cx="900" cy="214" r="5"/><circle cx="1136" cy="108" r="5"/></g>
+  <text x="64" y="92" fill="#35C7BD" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">SYSTEM / PROFILE</text>
+  <text x="64" y="190" fill="#F4F5F7" font-family="Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="2">OMAR BAKKALI</text>
+  <text x="68" y="232" fill="#929CAA" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="1.4">CTO · FULL-STACK ENGINEER · DIGITAL SYSTEMS BUILDER</text>
+  <text x="68" y="290" fill="#F4F5F7" font-family="Arial, sans-serif" font-size="20">Building operational platforms, automation systems and digital products</text><text x="68" y="319" fill="#F4F5F7" font-family="Arial, sans-serif" font-size="20">that turn fragmented processes into usable infrastructure.</text>
+  <g font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.1"><text x="68" y="405" fill="#929CAA">LOCATION / <tspan fill="#F4F5F7">TANGIER, MOROCCO</tspan></text><text x="405" y="405" fill="#929CAA">FOCUS / <tspan fill="#F4F5F7">PLATFORMS · AUTOMATION · OPERATIONS</tspan></text><text x="900" y="405" fill="#929CAA">STATUS / <tspan fill="#35C7BD">BUILDING</tspan></text></g>
+</svg>
