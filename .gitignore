@@ -1,0 +1,23 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary exports and local build output
+*.tmp
+*.bak
+*.log
+exports/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key

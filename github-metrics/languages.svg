@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+  <title id="title">Language metrics initialization status</title>
+  <desc id="desc">Most-used programming language metrics will appear after the GitHub Actions workflow completes successfully.</desc>
+  <rect width="900" height="220" fill="#10151D"/>
+  <rect x="1" y="1" width="898" height="218" fill="none" stroke="#26303D"/>
+  <circle cx="62" cy="62" r="7" fill="#E63946"/>
+  <text x="84" y="68" fill="#F4F5F7" font-family="Arial, sans-serif" font-size="25" font-weight="700">LANGUAGE SIGNAL</text>
+  <path d="M42 105H858" stroke="#26303D"/>
+  <text x="42" y="145" fill="#929CAA" font-family="Arial, sans-serif" font-size="19">Generated language data will replace this initial status graphic.</text>
+  <text x="42" y="181" fill="#35C7BD" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">STATUS / INITIALIZING</text>
+</svg>
