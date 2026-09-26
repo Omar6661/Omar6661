@@ -22,7 +22,7 @@ I build practical digital systems for businesses — from websites and internal 
 **Business Operations & CRM Systems**  
 Internal platforms for managing leads, qualification, bookings, follow-ups, tasks, roles, and operational workflows.
 
-** A&M Luxury Limo — Digital Operations Platform**  · In Development
+**A&M Luxury Limo — Digital Operations Platform** · *In Development*  
 Building a customer-facing website and reservation system with internal workflows for quotes, bookings, and dispatch operations.
 
 **Automation & Internal Tools**  
